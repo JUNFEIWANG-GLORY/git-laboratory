@@ -7,6 +7,6 @@ public class Main {
         System.out.println("git init");
         System.out.println("git add .");
         System.out.println("git commit -m \"Hello World\"");
-        System.out.println("");
+        System.out.println("aaaaa");
     }
 }
