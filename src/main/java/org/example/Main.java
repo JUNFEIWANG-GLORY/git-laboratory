@@ -8,5 +8,11 @@ public class Main {
         System.out.println("git add .");
         System.out.println("git commit -m \"Hello World\"");
         System.out.println("");
+        System.out.println("Push code to the repository");
+        System.out.println("git add .");
+        System.out.println("git commit -m \"Hello World\"");
+        System.out.println("");
+        System.out.println("Push code to the repository");
+        System.out.println("git commit -m \"Hello World\"");
     }
 }
